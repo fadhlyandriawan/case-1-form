@@ -8,3 +8,9 @@ Rancanglah antarmuka aplikasi berbasis web yang setidaknya memiliki 2 layout
 halaman:
 1. Halaman input, yang digunakan untuk memasukkan seluruh nilai variabel dari persamaan matematika yang akan diselesaikan. Nilai variabel yang dimasukkan melalui halaman ini akan dikirimkan ke halaman output untuk diproses.
 2. Halaman output, yang digunakan untuk menampilkan formula/rumus dari persamaan matematika yang diselesaikan dan menampilkan hasil perhitungan atas nilai-nilai variabel yang diberikan dari halaman input.
+
+Kami dari Kelompok 10 dengan nama anggota Kelompok :
+
+1. Fadhly Andriawan Kairupan_225150407111031
+2. Keith Evangel Samuel_225150407111100
+3. Natanael Isaac Pardamean Pardede_225150401111036
