@@ -1,6 +1,7 @@
 # case-1-form
 
 Case 1: HTML, Form, Bootstrap
+
 diminta untuk mendesainkan antarmuka aplikasi berbasis web untuk menyelesaikan sebuah rumus/persamaan matematika. Rumus matematika yang diselesaikan setidaknya memiliki 3 variabel yang berbeda. Jangan pilih persamaan matematika yang terlalu sederhana (seperti menghitung volume sebuah balok). 
 
 Rancanglah antarmuka aplikasi berbasis web yang setidaknya memiliki 2 layout
